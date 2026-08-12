@@ -1,0 +1,4 @@
+{"q": "Does Fluconazole interact with Warfarin?", "gold": "major;cyp2c9"}
+{"q": "What happens if Imatinib is given with Fluconazole?", "gold": "moderate;cyp3a4"}
+{"q": "Is Warfarin contraindicated for Thrombosis?", "gold": "used in thrombosis"}
+{"q": "Does Aspirin interact with Warfarin?", "gold": "no evidence"}

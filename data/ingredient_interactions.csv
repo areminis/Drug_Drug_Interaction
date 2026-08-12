@@ -1,0 +1,20 @@
+ingredient_a_id,ingredient_b_id,mechanism,severity,evidence
+I014,I007,CYP2C9 inhibition,Major,PMID:12345678
+I007,I017,Antiplatelet potentiation,Major,PMID:15234567
+I007,I008,Increased bleeding risk,Major,PMID:16234567
+I007,I023,Increased bleeding risk,Major,PMID:18234567
+I005,I017,Reduced renal clearance,Major,PMID:19234567
+I005,I008,Reduced renal clearance,Major,PMID:20234567
+I004,I016,Additive nephrotoxicity,Major,PMID:22234567
+I004,I012,Additive nephrotoxicity,Moderate,PMID:23234567
+I014,I010,CYP3A4 inhibition,Major,PMID:24234567
+I014,I025,CYP3A4 inhibition,Major,PMID:25234567
+I001,I014,CYP3A4 inhibition,Moderate,PMID:23456789
+I029,I001,CYP3A4 competitive inhibition,Major,PMID:34567890
+I013,I012,Hypokalemia increases toxicity,Major,PMID:28234567
+I013,I011,Increased digoxin levels,Moderate,PMID:29234567
+I009,I017,Reduced antihypertensive effect,Moderate,PMID:27234567
+I026,I017,Increased GI bleeding risk,Moderate,PMID:31234567
+I026,I008,Increased GI bleeding risk,Moderate,PMID:32234567
+I019,I012,Lactic acidosis risk,Major,PMID:33234567
+I016,I012,Additive ototoxicity,Major,PMID:30234567

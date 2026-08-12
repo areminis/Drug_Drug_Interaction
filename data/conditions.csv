@@ -1,0 +1,11 @@
+condition_id,name,category
+C01,Chronic Myeloid Leukemia,Disease
+C02,Breast Cancer,Disease
+C03,Ovarian Cancer,Disease
+C04,Lung Cancer,Disease
+C05,Thrombosis,Disease
+C06,Hypertension,Disease
+C07,Hyperlipidemia,Disease
+C08,Type 2 Diabetes,Disease
+C09,Atrial Fibrillation,Disease
+C10,Heart Failure,Disease

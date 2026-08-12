@@ -1,0 +1,39 @@
+ingredient_id,name,type,cas_number
+I001,Imatinib Mesylate,Active,220127-57-1
+I002,Paclitaxel,Active,33069-62-4
+I003,Doxorubicin Hydrochloride,Active,25316-40-9
+I004,Cisplatin,Active,15663-27-1
+I005,Methotrexate Sodium,Active,7413-34-5
+I006,Cyclophosphamide Monohydrate,Active,6055-19-2
+I007,Warfarin Sodium,Active,7413-34-5
+I008,Aspirin,Active,50-78-2
+I009,Lisinopril,Active,83915-83-7
+I010,Atorvastatin Calcium,Active,134523-03-8
+I011,Amlodipine Besylate,Active,111470-99-6
+I012,Furosemide,Active,54-31-9
+I013,Digoxin,Active,20830-75-5
+I014,Fluconazole,Active,86386-73-4
+I015,Amoxicillin Trihydrate,Active,61336-70-7
+I016,Gentamicin Sulfate,Active,1405-41-0
+I017,Ibuprofen,Active,15687-27-1
+I018,Acetaminophen,Active,103-90-2
+I019,Metformin Hydrochloride,Active,1115-70-4
+I020,Levothyroxine Sodium,Active,25416-65-3
+I021,Omeprazole,Active,73590-58-6
+I022,Albuterol Sulfate,Active,51022-70-9
+I023,Clopidogrel Bisulfate,Active,120202-66-6
+I024,Losartan Potassium,Active,124750-99-8
+I025,Simvastatin,Active,79902-63-9
+I026,Prednisone,Active,53-03-2
+I027,Gabapentin,Active,60142-96-3
+I028,Hydrochlorothiazide,Active,58-93-5
+I029,Erlotinib Hydrochloride,Active,183319-69-9
+I030,Gefitinib,Active,184475-35-2
+I031,Lactose Monohydrate,Inactive,64044-51-5
+I032,Microcrystalline Cellulose,Inactive,9004-34-6
+I033,Croscarmellose Sodium,Inactive,74811-65-7
+I034,Magnesium Stearate,Inactive,557-04-0
+I035,Hypromellose,Inactive,9004-65-3
+I036,Titanium Dioxide,Inactive,13463-67-7
+I037,Polyethylene Glycol,Inactive,25322-68-3
+I038,Starch,Inactive,9005-25-8

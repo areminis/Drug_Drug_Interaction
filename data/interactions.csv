@@ -1,0 +1,20 @@
+drug_a_id,drug_b_id,mechanism,severity,evidence_pubmed,evidence_label_url
+D014,D007,CYP2C9 inhibition,Major,PMID:12345678,https://dailymed.nlm.nih.gov/warfarin
+D007,D017,Antiplatelet potentiation,Major,PMID:15234567,https://dailymed.nlm.nih.gov/warfarin
+D007,D008,Increased bleeding risk,Major,PMID:16234567,https://dailymed.nlm.nih.gov/warfarin
+D007,D023,Increased bleeding risk,Major,PMID:18234567,https://dailymed.nlm.nih.gov/warfarin
+D005,D017,Reduced renal clearance,Major,PMID:19234567,https://dailymed.nlm.nih.gov/methotrexate
+D005,D008,Reduced renal clearance,Major,PMID:20234567,https://dailymed.nlm.nih.gov/methotrexate
+D004,D016,Additive nephrotoxicity,Major,PMID:22234567,https://dailymed.nlm.nih.gov/cisplatin
+D004,D012,Additive nephrotoxicity,Moderate,PMID:23234567,https://dailymed.nlm.nih.gov/cisplatin
+D014,D010,CYP3A4 inhibition,Major,PMID:24234567,https://dailymed.nlm.nih.gov/atorvastatin
+D014,D025,CYP3A4 inhibition,Major,PMID:25234567,https://dailymed.nlm.nih.gov/simvastatin
+D001,D014,CYP3A4 inhibition,Moderate,PMID:23456789,https://dailymed.nlm.nih.gov/imatinib
+D029,D001,CYP3A4 competitive inhibition,Major,PMID:34567890,https://dailymed.nlm.nih.gov/erlotinib
+D013,D012,Hypokalemia increases toxicity,Major,PMID:28234567,https://dailymed.nlm.nih.gov/digoxin
+D013,D011,Increased digoxin levels,Moderate,PMID:29234567,https://dailymed.nlm.nih.gov/digoxin
+D009,D017,Reduced antihypertensive effect,Moderate,PMID:27234567,https://dailymed.nlm.nih.gov/lisinopril
+D026,D017,Increased GI bleeding risk,Moderate,PMID:31234567,https://dailymed.nlm.nih.gov/prednisone
+D026,D008,Increased GI bleeding risk,Moderate,PMID:32234567,https://dailymed.nlm.nih.gov/prednisone
+D019,D012,Lactic acidosis risk,Major,PMID:33234567,https://dailymed.nlm.nih.gov/metformin
+D016,D012,Additive ototoxicity,Major,PMID:30234567,https://dailymed.nlm.nih.gov/gentamicin

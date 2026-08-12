@@ -1,0 +1,31 @@
+drug_id,name,class,atc_code
+D001,Imatinib,Tyrosine Kinase Inhibitor,L01XE01
+D002,Paclitaxel,Taxane,L01CD01
+D003,Doxorubicin,Anthracycline,L01DB01
+D004,Cisplatin,Platinum Agent,L01XA01
+D005,Methotrexate,Antimetabolite,L01BA01
+D006,Cyclophosphamide,Alkylating Agent,L01AA01
+D007,Warfarin,Anticoagulant,B01AA03
+D008,Aspirin,Antiplatelet,B01AC06
+D009,Lisinopril,ACE Inhibitor,C09AA03
+D010,Atorvastatin,Statin,C10AA05
+D011,Amlodipine,Calcium Channel Blocker,C08CA01
+D012,Furosemide,Loop Diuretic,C03CA01
+D013,Digoxin,Cardiac Glycoside,C01AA05
+D014,Fluconazole,Antifungal,J02AC01
+D015,Amoxicillin,Penicillin Antibiotic,J01CA04
+D016,Gentamicin,Aminoglycoside,J01GB03
+D017,Ibuprofen,NSAID,M01AE01
+D018,Acetaminophen,Analgesic,N02BE01
+D019,Metformin,Biguanide,A10BA02
+D020,Levothyroxine,Thyroid Hormone,H03AA01
+D021,Omeprazole,Proton Pump Inhibitor,A02BC01
+D022,Albuterol,Beta2 Agonist,R03AC02
+D023,Clopidogrel,Antiplatelet,B01AC04
+D024,Losartan,ARB,C09CA01
+D025,Simvastatin,Statin,C10AA01
+D026,Prednisone,Corticosteroid,H02AB07
+D027,Gabapentin,Anticonvulsant,N03AX12
+D028,Hydrochlorothiazide,Thiazide Diuretic,C03AA03
+D029,Erlotinib,Tyrosine Kinase Inhibitor,L01XE03
+D030,Gefitinib,Tyrosine Kinase Inhibitor,L01XE02
